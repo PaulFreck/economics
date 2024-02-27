@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Village
+comment1.params=
+comment1.target=void\ getPop()
+comment2.params=
+comment2.target=void\ getResources()
+comment3.params=
+comment3.target=void\ IncrementPop()
+numComments=4
